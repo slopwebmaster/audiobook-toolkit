@@ -62,5 +62,11 @@ This tool was assembled by stringing together existing open-source tools, with A
 *   **Voice Cloning Law:** Voice cloning law is less settled. In the US, liability runs through state right-of-publicity statutes, with Tennessee’s ELVIS Act the strictest example. In the EU, the AI Act requires disclosure of synthetic audio from August 2026, regardless of consent. In the UK, there’s currently no standalone personality or voice right, though reform is being discussed. 
 *   **Scope of this Tool:** For this specific tool, narrators are anonymous volunteers rather than commercial talent, and the tool only reconstructs missing passages using that same narrator’s own sampled voice. It doesn’t generate new content in their likeness, runs entirely local with no cloud processing, and doesn’t distribute the voice model commercially.
 
+## 🤖 A Note on How This Was Built
+
+I am not a traditional programmer. This project was built through a collaborative process with an AI assistant. I provided the vision, tested the audio outputs, caught the bugs (like Whisper hallucinating, TTS dropping words, and audio pops), and directed the architecture. The AI wrote the Python code. 
+
+I am releasing this as an open-source project because I believe AI-assisted development is a powerful way to solve niche problems. The code is fully transparent, and I hope it helps others in the community!
+
 ## 📄 License
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See the `LICENSE` file for details.
