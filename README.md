@@ -51,7 +51,7 @@ No GPU required. No API keys. 100% free and private.
 AI Text-to-Speech models are trained on modern English. When fed 19th-century literature, they often stumble. Before generating, you should act as the editor:
 *   **Remove Smart Quotes:** Delete `“ ”`, `( )`, and `[ ]`. Replace them with commas.
 *   **Fix the Dashes:** Replace em-dashes (`—`) and double hyphens (`--`) with periods so the AI takes a breath.
-*   **Spell Foreign Words Phonetically:** If the book contains a foreign name, spell it exactly how it sounds (e.g., `Bukovina` -> `Book-oh-vee-na`). Remove the hyphens after spelling it.
+*   **Experiment with Phonetic Spelling:** If the AI mispronounces a foreign word or name, you can try spelling it phonetically using spaces or periods (avoid hyphens, as the AI reads them as literal pauses). 
 *   **Watch Semicolons:** Replace semicolons with periods to prevent the AI from rushing through a massive sentence.
 
 ## ⚖️ Legal & Ethical Considerations
