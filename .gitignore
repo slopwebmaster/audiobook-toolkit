@@ -1,0 +1,7 @@
+.venv/
+work/
+output/
+__pycache__/
+*.mp3
+*.wav
+*.json
